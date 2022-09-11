@@ -1,0 +1,6 @@
+{
+    "workbench.colorTheme": "codeSTACKr Theme",
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    }
+}
